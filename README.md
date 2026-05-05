@@ -1,4 +1,3 @@
-# monadtest
 # install-monad-fullnode.sh
 
 Automated installation script for a Monad mainnet fullnode on Ubuntu 24.04.
